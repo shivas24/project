@@ -10,4 +10,3 @@ pip install  -r requirements.txt
 
 echo [$(date)] = "END"
 
-#To run init_setup.sh command is "bash init_setup.sh"
